@@ -1,0 +1,19 @@
+<!-- 
+###### Date #####
+    // May 2022 - July 2022
+    
+###### Authors ################
+    // Front End - Abhishek Mhamane
+    // Back End - Abhishek Mhamane
+    // Python Library - Abhishek Mhamane
+    // Guided by - Dr. Ranjan Sonporate
+
+###### Technologies Used #######
+    // Front End - HTML5, CSS3 JavaScript[ES6]
+    // Back End - Django
+    // Python Module/library - Structural Analysis, Numpy, Scipy, Matplotlib
+    // Github Repo Structural Analysis - "https://github.com/abhimhamane/structural-analysis"
+
+##### Credits ###########
+
+ -->
